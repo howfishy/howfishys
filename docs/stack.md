@@ -7,10 +7,10 @@
 
 ## Tools
 - VSCodium — primary editor
-- Roo Code — agentic coding extension (pending install)
-- Gemini 2.5 Pro — AI model via Google AI Studio free tier
-- Context7 MCP — live documentation fetching (pending install)
-- Aseprite — pixel art and sprite animation (pending install)
+- Roo Code — agentic coding extension (installed)
+- Gemini 2.5 Flash — AI model via Google AI Studio free tier (installed)
+- Context7 MCP — live documentation fetching 
+- Aseprite — pixel art and sprite animation (installed)
 - Git 2.49.0
 - Homebrew — package manager
 

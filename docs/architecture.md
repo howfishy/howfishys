@@ -3,13 +3,11 @@
 ## What this is
 A personal blog built as an interactive 2D illustrated room.
 Visitors click books on shelves to open collections of writing.
-Weather and season change based on visitor's real location via Open-Meteo (not sure if needed).
-~~Desktop only for V1; mobile shows a "please open on desktop" message.~~
+
 ## Tech stack
 - Astro (static site generator, content collections, markdown)
 - Vanilla JS (no browser frameworks)
 - GitHub Pages + GitHub Actions (hosting and deployment)
-~~-Open-Meteo API (weather, free, no API key, privacy-clean)~~
 - Tufte CSS (typography and margin sidenotes)
 
 
