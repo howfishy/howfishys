@@ -1,8 +1,8 @@
 # Stack
 
 ## Core
-- Astro — version TBD (install when setting up)
-- Node.js — version TBD (check with node --version after install)
+- Astro — version 6.3.1
+- Node.js — v24.1.0 
 - Vanilla JS — no framework in the browser
 
 ## Tools
